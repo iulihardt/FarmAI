@@ -2,15 +2,20 @@
 
 
 
+
 <h1 align="center">
 <br />
-  <img src="https://i.imgur.com/glg88Tw.png" alt="logo" border="0">
+  <img src="https://i.imgur.com/MmtWbR4.png" alt="logo" border="0">
 <br />
 <br />
 
 </h1>
 
-#### FarmIA
+#### FarmIA - [Primeiro lugar no Hackathon Shawee - Santander](https://www.datachallenge.com.br/resultado/)
+
+
+PITCH:
+https://www.youtube.com/watch?v=4Cn9ma3GC0g&feature=youtu.be
 
 
  A [**FarmIA**](https://www.figma.com/proto/PfV39FKHG4iQ0O2uHcD0g3/FarmIA?node-id=75%3A8&scaling=scale-down) veio como o objetivo de ajudar na base da cadeia de alimentos com foco no setor agrícola de plantio de arroz. 
